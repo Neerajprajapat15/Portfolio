@@ -1,0 +1,74 @@
+{
+  "personal": {
+    "fullName": "Neeraj Prajapat",
+    "title": "Full-Stack Developer (MERN) | Aspiring Software Engineer",
+    "tagline": "Building scalable full-stack applications with real-time features and AI integration",
+    "bio": "I am a Computer Science student at SKIT Jaipur with strong skills in MERN stack development and Data Structures & Algorithms using Java. I enjoy building real-world applications like real-time chat systems and AI-powered platforms. I am currently focused on strengthening my problem-solving skills and preparing for software engineering roles in top tech companies.",
+    "email": "neeraj.p2k5@gmail.com",
+    "linkedin": "https://linkedin.com/in/neerajprajapat15",
+    "github": "https://github.com/Neerajprajapat15",
+    "location": "Jaipur, Rajasthan, India",
+    "profilePhoto": null
+  },
+  "skills": [
+    { "name": "Java", "level": 88 },
+    { "name": "JavaScript", "level": 85 },
+    { "name": "React.js", "level": 85 },
+    { "name": "Node.js", "level": 82 },
+    { "name": "Express.js", "level": 82 },
+    { "name": "MongoDB", "level": 80 },
+    { "name": "Tailwind CSS", "level": 80 },
+    { "name": "Python", "level": 72 },
+    { "name": "Socket.io", "level": 78 },
+    { "name": "MySQL", "level": 72 },
+    { "name": "Zustand", "level": 70 },
+    { "name": "Scikit-learn", "level": 65 }
+  ],
+  "projects": [
+    {
+      "name": "Cineverse",
+      "description": "A full-stack movie discovery platform with advanced filtering and AI-powered review analysis including sentiment detection, spam filtering, and hate speech detection.",
+      "techStack": ["React.js", "Node.js", "Express.js", "MySQL", "Sequelize", "JWT", "Cloudinary", "ML"],
+      "liveLink": "https://cineverse-iig9.onrender.com/",
+      "githubLink": "https://github.com/Neerajprajapat15/CineVerse"
+    },
+    {
+      "name": "ChatNRJ",
+      "description": "A real-time chat application featuring instant messaging, image sharing, active user status, and 'delete for everyone' functionality.",
+      "techStack": ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io", "JWT", "Tailwind CSS"],
+      "liveLink": "https://chatnrj.onrender.com/",
+      "githubLink": "https://github.com/Neerajprajapat15/mern-community-chat-app"
+    }
+  ],
+  "experience": [
+    {
+      "company": "KISTechnoSoftware Pvt. Ltd.",
+      "role": "Web Development Intern",
+      "duration": "15 Days",
+      "highlights": [
+        "Developed and worked on frontend and backend components of web applications",
+        "Gained hands-on experience with real-world development workflows",
+        "Improved debugging and problem-solving skills"
+      ]
+    },
+    {
+      "company": "Playtown Studios",
+      "role": "AI/ML Intern",
+      "duration": "45 Days",
+      "highlights": [
+        "Worked on machine learning models and data preprocessing tasks",
+        "Applied algorithms like classification and prediction models",
+        "Gained practical exposure to real-world AI/ML applications"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science Engineering",
+      "institution": "SKIT Jaipur (RTU Kota)",
+      "year": "2022 – 2026 (Expected)",
+      "details": "🥇 Rank 1 in GeeksforGeeks College Contest · Completed GFG 160 Days DSA Challenge"
+    }
+  ],
+  "placeholderFields": []
+}
